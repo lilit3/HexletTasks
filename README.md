@@ -11,7 +11,12 @@
 Реализуйте функцию addDigits
 
 addDigits(0); // 0
+
 addDigits(1); // 1
+
 addDigits(9); // 9
+
 addDigits(10); // 1
+
 addDigits(38); // 2
+
