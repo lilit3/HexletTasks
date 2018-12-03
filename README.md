@@ -10,8 +10,6 @@
 
 Реализуйте функцию addDigits
 
-<?php
-
 addDigits(0); // 0
 addDigits(1); // 1
 addDigits(9); // 9
